@@ -1,0 +1,3 @@
+/lp/help /help.json 200
+/lp/:slug/ /:slug 301
+/lp/:slug /:slug 301
